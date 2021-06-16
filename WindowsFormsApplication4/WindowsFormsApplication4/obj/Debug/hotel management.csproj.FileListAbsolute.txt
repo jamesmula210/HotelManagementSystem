@@ -1,0 +1,12 @@
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\hotel management.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Board.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\hotel management.csproj.GenerateResource.Cache
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UserControls.UWelcome.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.UHola.resources
